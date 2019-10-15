@@ -1,6 +1,6 @@
 # Jogo 2048 com Animações
 
-* <a> [Read this page in English](https://github.com/murilodepa/2048-Game-with-Animations/edit/master/README.md)
+* <a> [Read this page in English](https://github.com/murilodepa/2048-Game-with-Animations/blob/master/README.md)
 
 ## Jogo 2048 com diferencial de animações para cada junção de blocos e se caso colidirem!
 
