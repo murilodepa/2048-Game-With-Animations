@@ -1,5 +1,7 @@
 # Jogo 2048 com Animações
 
+* <a> [Read this page in English](https://github.com/murilodepa/2048-Game-with-Animations/edit/master/README.md)
+
 ## Jogo 2048 com diferencial de animações para cada junção de blocos e se caso colidirem!
 
 ### Descrição do Jogo
@@ -76,4 +78,4 @@
 * <a> [Dicas do site *RachaCuca* para vencer o jogo](https://rachacuca.com.br/raciocinio/2048/)
   
 ### Contribuições
-- Contribuições e possíveis melhorias, no meu ponto de vista são sempre bem-vindas.
+- Contribuições e possíveis melhorias, no meu ponto de vista são sempre bem-vindas. Bom jogo e divirta-se!
