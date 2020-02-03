@@ -39,7 +39,7 @@
 (on Windows, Mac OS and Ubuntu)](https://www3.ntu.edu.sg/home/ehchua/programming/howto/netbeans_howto.html)
 
 ### Development
-* Git clone https://github.com/murilodepa/Jogo-2048-com-Animacao
+* Git clone https://github.com/murilodepa/2048-Game-with-Animations.git
 * if accomplish "Download ZIP", need a file decompressor.
 * After you have installed NetBeans or another similar program, run it and select "file" and then "open project".
 * Select the directory you want to execute where the file is saved and then select the open option.
