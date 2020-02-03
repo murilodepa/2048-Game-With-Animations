@@ -40,7 +40,7 @@
 * <a> [Tutorial de como instalar o JDK e o NetBeans: Necessário para o desenvolvimento do projeto](https://www.oficinadanet.com.br/post/16771-netbeans-requisitos-e-como-instalar)
 
 ### Desenvolvimento
-* Git clone https://github.com/murilodepa/Jogo-2048-com-Animacao
+* Git clone https://github.com/murilodepa/2048-Game-with-Animations.git
 * Se realizar "Download ZIP", necessita de um descompactador de arquivos.
 * Após ter instalado o NetBeans ou outro programa similar, execute-o e selecione "arquivo" e depois "abrir projeto".
 * Selecione o diretório que deseja executar onde está salvo o arquivo e depois selecione a opção abrir.
